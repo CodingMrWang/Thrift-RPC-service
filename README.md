@@ -1,5 +1,12 @@
 # Thrift RPC service
 
+Install Apache Thrift
+
+```
+brew unlink thrift
+brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/9d524e4850651cfedd64bc0740f1379b533f607d/Formula/thrift.rb
+```
+
 Firstly, finish thrift file, then run
 
 ```
